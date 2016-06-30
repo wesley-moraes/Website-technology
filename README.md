@@ -2,4 +2,4 @@
 
 Ideia de Layout responsivo com tema tecnológico.
 
-#Recomendável abrir as imagens no navegador.
+###Recomendável abrir as imagens no navegador.
